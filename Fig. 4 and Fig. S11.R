@@ -200,6 +200,8 @@ p <- ggarrange(p1,p2,p3,b1,b2,b6,
 p
 #ggsave('~/Desktop/p.pdf',p,width = 7.80,height = 5.45,dpi = 600,units = 'in')
 
+#Finally, these plots are arranged into fig.4 and fig. S11 in AI software and further modify legends.
+
 
 
 
