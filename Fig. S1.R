@@ -79,3 +79,5 @@ bar <-ggplot(data,aes(time,mean,fill=Taxonomy))+
 				legend.text = element_text(size=8,hjust = 0,color = "black"))
 bar
 #ggsave('~/Desktop/bar.pdf',bar,width = 6.65,height = 4.25,dpi = 600,units = 'in')
+
+#Finally, these plots are arranged into fig.S1 in AI software and further modify legends.
