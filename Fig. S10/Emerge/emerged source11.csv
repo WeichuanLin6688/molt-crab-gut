@@ -1,0 +1,25 @@
+pred_emnoise_all,pred_em_all,tissue,source
+0.254346169,0.58504697,Foregut,Carapace surface
+0.018897824,0.011271158,Foregut,Hepatopancreas
+0.051512528,0.007636636,Foregut,Muscle
+0.014529427,0.01660759,Foregut,Gill
+0.137829933,0.03278257,Foregut,Seawater
+0.017038191,0.019162268,Foregut,Hemolymph
+0.505845928,0.327492808,Foregut,Unknown
+0.122389835,0.016252109,Midgut,Foregut
+0.143072641,0.537183276,Midgut,Carapace surface
+0.010383083,0.006771402,Midgut,Hepatopancreas
+0.089266074,0.019304109,Midgut,Muscle
+0.015572246,0.017577436,Midgut,Gill
+0.159094319,0.003554103,Midgut,Seawater
+0,0,Midgut,Hemolymph
+0.460221802,0.399357564,Midgut,Unknown
+0.014540699,0.005643858,Hindgut,Foregut
+0.053991571,0.00965638,Hindgut,Midgut
+0.12045574,0.25776284,Hindgut,Carapace surface
+0.008194847,0.006841684,Hindgut,Hepatopancreas
+0.00379128,0.005204027,Hindgut,Muscle
+0.042268596,0.038387456,Hindgut,Gill
+0.05043328,0.024663578,Hindgut,Seawater
+0,0,Hindgut,Hemolymph
+0.706323987,0.651840178,Hindgut,Unknown
