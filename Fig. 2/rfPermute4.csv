@@ -1,0 +1,27 @@
+,%IncMSE,%IncMSE.pval,IncNodePurity,IncNodePurity.pval,Pathway
+Butanoate.metabolism,8.710565071,0.01980198,0.019457614,0.01980198,Butanoate metabolism
+Aminoacyl.tRNA.biosynthesis,8.598433929,0.01980198,0.017363777,0.01980198,Aminoacyl-tRNA biosynthesis
+HIF.1.signaling.pathway,7.939975026,0.01980198,0.015498798,0.02970297,HIF-1 signaling pathway
+Nicotinate.and.nicotinamide.metabolism,7.273759024,0.01980198,0.014525622,0.01980198,Nicotinate and nicotinamide metabolism
+Glycerophospholipid.metabolism,7.097858801,0.00990099,0.002424219,0.02970297,Glycerophospholipid metabolism
+Bacterial.chemotaxis,7.095203811,0.00990099,0.001985672,0.04950495,Bacterial chemotaxis
+Peroxisome,6.983479885,0.00990099,0.002210405,0.04950495,Peroxisome
+Fatty.acid.degradation,6.679383515,0.01980198,0.012381441,0.01980198,Fatty acid degradation
+Biotin.metabolism,6.671978407,0.00990099,0.00345518,0.00990099,Biotin metabolism
+Fluorobenzoate.degradation,6.357091909,0.00990099,0.007339845,0.01980198,Fluorobenzoate degradation
+Biosynthesis.of.ansamycins,5.973102597,0.00990099,0.00583596,0.01980198,Biosynthesis of ansamycins
+Pyrimidine.metabolism,5.832787745,0.00990099,0.008900444,0.02970297,Pyrimidine metabolism
+Thiamine.metabolism,5.695121469,0.00990099,0.008915342,0.00990099,Thiamine metabolism
+Arginine.biosynthesis,5.458261818,0.00990099,0.005882992,0.01980198,Arginine biosynthesis
+Phenazine.biosynthesis,5.394838533,0.02970297,0.006897355,0.03960396,Phenazine biosynthesis
+Aminobenzoate.degradation,5.239835201,0.00990099,0.002778215,0.03960396,Aminobenzoate degradation
+Carbapenem.biosynthesis,4.938705328,0.00990099,0.005238175,0.00990099,Carbapenem biosynthesis
+Caprolactam.degradation,4.669000277,0.01980198,0.005271027,0.02970297,Caprolactam degradation
+RNA.polymerase,4.596223757,0.02970297,0.006418371,0.03960396,RNA polymerase
+Biosynthesis.of.vancomycin.group.antibiotics,4.553679144,0.01980198,0.003994998,0.03960396,Biosynthesis of vancomycin group antibiotics
+Valine..leucine.and.isoleucine.biosynthesis,4.40021342,0.00990099,0.003645079,0.02970297,"Valine, leucine and isoleucine biosynthesis"
+C5.Branched.dibasic.acid.metabolism,4.229389036,0.00990099,0.003897451,0.02970297,C5-Branched dibasic acid metabolism
+Bacterial.secretion.system,3.990556929,0.00990099,0.00331787,0.02970297,Bacterial secretion system
+RNA.degradation,3.861690652,0.00990099,0.002506773,0.03960396,RNA degradation
+Phenylalanine..tyrosine.and.tryptophan.biosynthesis,3.527817069,0.01980198,0.003996405,0.02970297,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+Lipoarabinomannan..LAM..biosynthesis,3.376989586,0.02970297,0.00246858,0.02970297,Lipoarabinomannan (LAM) biosynthesis
